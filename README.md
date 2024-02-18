@@ -1,6 +1,6 @@
 # MELODY
 
-MELODY is an R package for high-dimensional mediation analysis of binary data.
+MELODY is an R package for high-dimensional mediation analysis of binary outcome.
 
 ## Installation
 
