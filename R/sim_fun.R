@@ -1,4 +1,4 @@
-#' Simulate and Analyze Logistic Regression Data
+#' Mediation model and estimation function
 #'
 #' This function simulates logistic regression data and analyzes it using various models
 #' to calculate R-squared values and other statistics. It can handle data with or without
