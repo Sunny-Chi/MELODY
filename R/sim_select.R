@@ -1,4 +1,4 @@
-#' Selective Simulation and Analysis for Logistic Regression
+#' Mediator selection function
 #'
 #' This function conducts selective simulations to evaluate the impact of various mediators and predictors on logistic regression outcomes. It allows for mediator selection based on specified criteria and calculates performance metrics.
 #'
